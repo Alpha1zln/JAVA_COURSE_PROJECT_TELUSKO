@@ -1,0 +1,277 @@
+Let's Play Quiz Game!
+Choose topic (Java/DSA/Core/Cpp): java
+
+Q1: Which keyword is used to inherit a class in Java?
+1. super
+2. this
+3. extends
+4. implements
+Your answer (1-4): 3
+Result: Correct!
+
+Q2: Which of these is not a primitive data type?
+1. int
+2. float
+3. String
+4. char
+Your answer (1-4): 3
+Result: Correct!
+
+Q3: Which method is the entry point of Java program?
+1. start()
+2. main()
+3. init()
+4. run()
+Your answer (1-4): 3
+Result: Wrong! And Correct answer: main()
+
+Q4: Which package contains Scanner class?
+1. java.io
+2. java.net
+3. java.util
+4. java.sql
+Your answer (1-4): 3
+Result: Correct!
+
+Q5: Which concept allows method to have same name but diff parameters?
+1. Overloading
+2. Overriding
+3. Encapsulation
+4. Abstraction
+Your answer (1-4): 1
+Result: Correct!
+Do you want to continue? (y/n): n
+
+Your final score: 4/5
+Percentage: 80.00%
+You played Very Good!
+Do you want to play another game? (y/n): y
+-----------------------------------
+Let's Play Quiz Game!
+Choose topic (Java/DSA/Core/Cpp): dsa
+
+Q1: Time complexity of binary search?
+1. O(1)
+2. O(log n)
+3. O(n)
+4. O(n log n)
+Your answer (1-4): 2
+Result: Correct!
+
+Q2: Space complexity of merge sort?
+1. O(1)
+2. O(log n)
+3. O(n)
+4. O(n^2)
+Your answer (1-4): 3
+Result: Correct!
+
+Q3: Worst case complexity of QuickSort?
+1. O(n^2)
+2. O(n log n)
+3. O(log n)
+4. O(n)
+Your answer (1-4): 1
+Result: Correct!
+
+Q4: Which DS is used in BFS?
+1. Stack
+2. Queue
+3. Graph
+4. Heap
+Your answer (1-4): 2
+Result: Correct!
+
+Q5: Which DS is used in DFS?
+1. Stack
+2. Queue
+3. Heap
+4. Set
+Your answer (1-4): 1
+Result: Correct!
+Do you want to continue? (y/n): y
+
+Q6: Best case time complexity of insertion sort?
+1. O(n)
+2. O(n log n)
+3. O(1)
+4. O(n^2)
+Your answer (1-4): 4
+Result: Wrong! And Correct answer: O(n)
+
+Q7: Which DS gives O(1) average lookup?
+1. Array
+2. HashMap
+3. LinkedList
+4. Tree
+Your answer (1-4): 2
+Result: Correct!
+
+Q8: Height of balanced binary tree is?
+1. O(1)
+2. O(n)
+3. O(log n)
+4. O(n log n)
+Your answer (1-4): 3
+Result: Correct!
+
+Q9: Which DS uses FIFO?
+1. Stack
+2. Queue
+3. Deque
+4. Tree
+Your answer (1-4): 2
+Result: Correct!
+
+Q10: Which DS uses LIFO?
+1. Stack
+2. Queue
+3. Heap
+4. Graph
+Your answer (1-4): 1
+Result: Correct!
+Do you want to continue? (y/n): n
+
+Your final score: 9/10
+Percentage: 90.00%
+You played Superb!
+Do you want to play another game? (y/n): y
+-----------------------------------
+Let's Play Quiz Game!
+Choose topic (Java/DSA/Core/Cpp): core
+
+Q1: Which scheduling algorithm may cause starvation?
+1. Round Robin
+2. FCFS
+3. SJF
+4. Priority
+Your answer (1-4): 4
+Result: Wrong! And Correct answer: SJF
+
+Q2: Which of the following is not a valid page replacement algorithm?
+1. FIFO
+2. LRU
+3. Optimal
+4. Round Robin
+Your answer (1-4): 4
+Result: Correct!
+
+Q3: Which system call is used to create a new process in Unix?
+1. exec()
+2. fork()
+3. create()
+4. spawn()
+Your answer (1-4): 2
+Result: Correct!
+
+Q4: Thrashing occurs when:
+1. Page fault rate is low
+2. Page fault rate is high
+3. CPU utilization is high
+4. Memory is large
+Your answer (1-4): 2
+Result: Correct!
+
+Q5: Which of the following is not a type of OS?
+1. Batch
+2. Real-time
+3. Network
+4. Compiler
+Your answer (1-4): 4
+Result: Correct!
+Do you want to continue? (y/n): n
+
+Your final score: 4/5
+Percentage: 80.00%
+You played Very Good!
+Do you want to play another game? (y/n): y
+-----------------------------------
+Let's Play Quiz Game!
+Choose topic (Java/DSA/Core/Cpp): cpp
+
+Q1: Which of the following is not a valid C++ access specifier?
+1. public
+2. private
+3. protected
+4. package
+Your answer (1-4): 4
+Result: Correct!
+
+Q2: Which operator cannot be overloaded in C++?
+1. ++
+2. ::
+3. ()
+4. +
+Your answer (1-4): 2
+Result: Correct!
+
+Q3: Which feature of OOP indicates code reusability?
+1. Encapsulation
+2. Polymorphism
+3. Inheritance
+4. Abstraction
+Your answer (1-4): 3
+Result: Correct!
+
+Q4: Which keyword is used to define a constant in C++?
+1. const
+2. static
+3. #define
+4. final
+Your answer (1-4): 1
+Result: Correct!
+4. final
+Your answer (1-4): 1
+Result: Correct!
+
+Q5: Which of the following is used for dynamic memory allocation in C++?
+1. malloc
+2. calloc
+3. new
+4. alloc
+Your answer (1-4): 1
+Your answer (1-4): 1
+Result: Correct!
+
+Q5: Which of the following is used for dynamic memory allocation in C++?
+1. malloc
+2. calloc
+3. new
+4. alloc
+Your answer (1-4): 1
+Result: Correct!
+
+Q5: Which of the following is used for dynamic memory allocation in C++?
+1. malloc
+2. calloc
+3. new
+4. alloc
+Your answer (1-4): 1
+
+Q5: Which of the following is used for dynamic memory allocation in C++?
+1. malloc
+2. calloc
+3. new
+4. alloc
+Your answer (1-4): 1
+Q5: Which of the following is used for dynamic memory allocation in C++?
+1. malloc
+2. calloc
+3. new
+4. alloc
+Your answer (1-4): 1
+4. alloc
+Your answer (1-4): 1
+Result: Wrong! And Correct answer: new
+Do you want to continue? (y/n): n
+
+Your final score: 4/5
+Your final score: 4/5
+Percentage: 80.00%
+You played Very Good!
+Percentage: 80.00%
+You played Very Good!
+You played Very Good!
+Do you want to play another game? (y/n): n
+-----------------------------------
+Thanks for playing! Goodbye
