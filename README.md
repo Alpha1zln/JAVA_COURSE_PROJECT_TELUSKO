@@ -21,9 +21,6 @@ Clone the repository to your local system:
 
 
 2- Go to the project folder where your code is stored.  
-To initialize git:  
-``` git init ```  
-
 Check the current branch:  
 ``` git branch ``` 
 
